@@ -1,2 +1,6 @@
 for liking good feeds
+<<<<<<< HEAD
 Don't like bad feeds
+=======
+only like good feeds
+>>>>>>> 2ae1667e84d75c785f57be9b5cb1646754ae757b
